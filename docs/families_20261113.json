@@ -1,0 +1,474 @@
+{
+ "generated_at": "2026-11-13T12:04:59",
+ "source": "doba_kitchen_api_products_20261113.jsonl",
+ "families": [
+  {
+   "family_id": "VG-pop-style-10-round-plate",
+   "supplier": "Pop Style",
+   "form": "10\" round plate",
+   "attribute": "Design",
+   "parent_item_no": "D0102HEGZ3X",
+   "members": [
+    {
+     "item_no": "D0102HEGZ3X",
+     "label": "Elon Musk",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": true
+    },
+    {
+     "item_no": "D0102HEGZ36",
+     "label": "Barack",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZYV",
+     "label": "Mona",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZDG",
+     "label": "Rosa Parks",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZDU",
+     "label": "Santa Claus",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZMW",
+     "label": "Nelson",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZZG",
+     "label": "Angela",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZ8A",
+     "label": "Mahatma",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZ8V",
+     "label": "Steve",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZW7",
+     "label": "Sigmund",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZWY",
+     "label": "Galileo",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZKV",
+     "label": "Ronald",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZN7",
+     "label": "Frida Kahlo",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZNY",
+     "label": "Nikola",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZNU",
+     "label": "Vincent Van Gogh",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZ4W",
+     "label": "Justin",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZT7",
+     "label": "Kamala",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZTY",
+     "label": "Che",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZUV",
+     "label": "Margaret",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZUW",
+     "label": "John",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZFG",
+     "label": "Come Together",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZ3A",
+     "label": "Pablo Picasso",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQEZ3V",
+     "label": "Charles De",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8HG",
+     "label": "Marie",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8HY",
+     "label": "George",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8XV",
+     "label": "Elizabeth II",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8XW",
+     "label": "Donald",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE87Y",
+     "label": "Volodymyr",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE85A",
+     "label": "Abraham",
+     "price": 13.64,
+     "inventory": 499,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE85W",
+     "label": "Princess",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8R7",
+     "label": "Ruth Bader",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8RU",
+     "label": "Joe",
+     "price": 13.64,
+     "inventory": 499,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8EV",
+     "label": "Hillary",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8EW",
+     "label": "Salvador Dali",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8PG",
+     "label": "Winston",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8AA",
+     "label": "Dalai",
+     "price": 13.64,
+     "inventory": 500,
+     "is_primary": false
+    }
+   ]
+  },
+  {
+   "family_id": "VG-pop-style-10-x14-serving-platter",
+   "supplier": "Pop Style",
+   "form": "10\"x14\" serving platter",
+   "attribute": "Design",
+   "parent_item_no": "D0102HQE8AW",
+   "members": [
+    {
+     "item_no": "D0102HQE8AW",
+     "label": "Che",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": true
+    },
+    {
+     "item_no": "D0102HQE8SG",
+     "label": "Diana",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8SY",
+     "label": "Rosa",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE89A",
+     "label": "Justin",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE89W",
+     "label": "Ronald",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8IU",
+     "label": "Joe",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE82V",
+     "label": "Nelson",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8GG",
+     "label": "Barack",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8GY",
+     "label": "Mahatma",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8QA",
+     "label": "Frida Kahlo",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8QW",
+     "label": "Winston",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8LG",
+     "label": "Santa Claus",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE80A",
+     "label": "Abraham",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE80V",
+     "label": "Margaret",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8JG",
+     "label": "Sigmund",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8JY",
+     "label": "Pablo Picasso",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8VA",
+     "label": "Salvador Dali",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8VW",
+     "label": "Dalai",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8CY",
+     "label": "John F.",
+     "price": 21.0,
+     "inventory": 499,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8CU",
+     "label": "Elon",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE8BV",
+     "label": "Marie",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    },
+    {
+     "item_no": "D0102HQE81G",
+     "label": "Hillary",
+     "price": 21.0,
+     "inventory": 500,
+     "is_primary": false
+    }
+   ]
+  }
+ ],
+ "singles": [
+  "D0102HXTMMT",
+  "D0102HXTMZP",
+  "D0102HE6NNY",
+  "D0102HE6NNU",
+  "D0102HE6N4V",
+  "D0102HE64RU",
+  "D0102HE64EW",
+  "D0102HE6UGG",
+  "D0102HEY9IY",
+  "D0102HEY9VA",
+  "D0102HEY9VV",
+  "D0102HEY2BW",
+  "D0102HEYLT7",
+  "D0102HEYLTG",
+  "D0102HEYLTU",
+  "D0102HEYJFG",
+  "D0102HEY69W",
+  "D0102HEY6I7",
+  "D0102HEYZAV",
+  "D0102HEYZSG",
+  "D0102HPI8CG",
+  "D0102HPY5NY",
+  "D0102HPY5NU",
+  "D0102HPY5T7",
+  "D0102HPY5TY",
+  "D0102HPF6HG",
+  "D0102HASFQA",
+  "D0102HISZXU",
+  "D0102HISZ7A",
+  "D0102HI67VG",
+  "D0102H2REGU",
+  "D0102H2QT4A",
+  "D0102H2QUHU",
+  "D0102H2QUWW",
+  "D0102H2LEIG",
+  "D0102HGPVIV",
+  "D0102HGPV0U",
+  "D0102HGPVCV",
+  "D0102HGYGAV",
+  "D0102HGZPLA",
+  "D0102HGK51W",
+  "D0102H21BAA"
+ ]
+}
